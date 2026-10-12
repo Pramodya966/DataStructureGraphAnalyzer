@@ -15,10 +15,10 @@ searching (linear and binary), graphs (BFS/DFS) and a performance/complexity com
 | Student Name | Student ID | Assigned Responsibility |
 |---|---|---|
 | PRAMODYA MILINDA | 23DA2-0252 | Array and Searching implementation |
-| (Full name 2) | (IT________) | Stack and Queue implementation |
-| (Full name 3) | (IT________) | Linked List implementation |
-| (Full name 4) | (IT________) | Graph implementation and traversal |
-| (Full name 5) | (IT________) | Performance comparison, main menu, integration and testing |
+| A.K.U.S.D. JAYAWARDANA | 23DA2-0519 | Stack and Queue implementation |
+| R.L.M.B.EKANAYAKA | 23DA2-0911 | Linked List implementation |
+| M.D.M MADHUSHIKA SANDAMALI | 23DA2-0622 | Graph implementation and traversal |
+
 
 *(Fewer members? Combine responsibilities – every component must still be present.)*
 
